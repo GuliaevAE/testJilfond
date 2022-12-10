@@ -41,7 +41,7 @@ export default {
 
   .header_title {
     font-style: normal;
-    font-weight: 700;
+    font-weight: 800;
     font-size: 32px;
     line-height: 39px;
     color: #E31F24;
